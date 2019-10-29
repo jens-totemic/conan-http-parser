@@ -8,7 +8,7 @@ from conans import ConanFile, CMake, tools
 
 class HttpParserConan(ConanFile):
     name = "http-parser"
-    version = "2.9.0"
+    version = "2.9.2"
     description = "http request/response parser for c"
     url = "https://github.com/bincrafters/conan-http-parser"
     homepage = "https://github.com/nodejs/http-parser"
